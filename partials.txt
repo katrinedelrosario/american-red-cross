@@ -6,6 +6,18 @@ Hvilke partials skal jeg bruge?
 
 
 Hvad skal mine partials indeholde?
-@mixin
-variabler
+    @mixin
+    variabler
 
+Hvilke elementer styles ens på landingpage?
+    logo
+        variables
+    buttons
+        variables
+        mixin
+    cards
+        variables
+    cardgallery
+        mixin
+    links
+        variables
