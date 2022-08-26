@@ -1,0 +1,11 @@
+Hvilke partials skal jeg bruge?
+    colors.scss
+    fonts.scss
+    logo.scss
+
+
+
+Hvad skal mine partials indeholde?
+@mixin
+variabler
+
